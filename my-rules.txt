@@ -17,4 +17,4 @@
 36kr.com###app > div.goapp-wrapper > div.kr-mobile-layout:last-child > div.layout-children.show-login:nth-child(2) > div.kr-mobile-article > div:nth-child(2)
 36kr.com###app > div.goapp-wrapper > div.kr-mobile-layout:last-child > div.layout-children.show-login:nth-child(2) > div.kr-mobile-article > div.article-body-main:first-child > div.body-content-wrapper-main:last-child > div.article-copyright:nth-child(2)
 36kr.com###app > div.goapp-wrapper > div.kr-mobile-layout:last-child > div.layout-children.show-login:nth-child(2) > div.kr-mobile-article > div.interact-area:last-child
-36kr.com##.float-app-button-wrp
+36kr.36kr.com###app > div.goapp-wrapper > div.kr-mobile-layout:last-child > div.layout-children.show-login:nth-child(2) > div.kr-mobile-article > div.float-app-button-wrp:nth-child(11)
