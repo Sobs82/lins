@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+! Title: 36kr 干净版（纯类名，适配所有浏览器）
+! Expires: 7 days
+
+36kr.com##.home-entry-menu-wrap
+36kr.com##.show.article-top-swiper-goapp
+36kr.com##.float-app-button-wrp
+36kr.com##.float-home-button-wrp
+36kr.com##.home-banner-swiper
+36kr.com##.kr-mobile-footer
+36kr.com##.goapp-wrapper
+36kr.com##.article-no-comment-wrap
+36kr.com##.user-login
+36kr.com##.interact-area-comment
+36kr.com##.article-copyright
